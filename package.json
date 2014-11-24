@@ -4,7 +4,7 @@
   "description": "My own preferences & best practices when building stuff for the web",
   "main": "index.coffee",
   "scripts": {
-    "test": "npm test"
+    "test": ""
   },
   "repository": {
     "type": "git",
